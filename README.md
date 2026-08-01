@@ -1,49 +1,74 @@
-# Sales Performance Dashboard (Power BI)
+# 📊 Sales Performance Dashboard (Power BI)
 
-## Overview
+## 📌 Overview
 
-This project is an interactive Power BI dashboard developed to analyze sales performance across different years, customers, and products.
+This project is an interactive Power BI dashboard designed to analyze sales performance, profitability, customer behavior, and product performance using business intelligence techniques.
 
-## Business Objective
+---
 
-To help stakeholders monitor sales, profit, orders, quantity, and customer performance using interactive dashboards.
+## 🎯 Business Objective
 
-## Tools Used
+The objective of this dashboard is to help business stakeholders monitor sales performance and make data-driven decisions by analyzing:
+
+- Sales
+- Profit
+- Orders
+- Profit Margin
+- Customer Segments
+- Product Performance
+
+---
+
+## 🛠 Tools Used
 
 - Power BI
 - Power Query
 - DAX
+- Data Modeling
 
-## Dashboard Features
+---
 
-- Sales KPI Cards
-- Profit Analysis
-- Profit Margin
-- Total Orders
-- Average Order Value
-- Customer Segmentation
+## 📈 Dashboard Features
+
+- KPI Cards
+- Year, Quarter & Month Filters
+- Customer Filter
 - Product Ranking
-- Product-wise Sales
-- Year, Quarter and Month Filters
+- Customer Segmentation
+- Product-wise Sales Analysis
+- Sales Distribution Chart
 
-## Key KPIs
+---
 
-- Total Sales: **346.27M**
-- Profit: **130.24M**
-- Total Orders: **12K**
-- Profit Margin: **37.61%**
-- Average Order Value: **28.43K**
-- Total Quantity: **152K**
+## 📊 Key KPIs
 
-## Dashboard Preview
+| KPI | Value |
+|------|-------|
+| Total Sales | 346.27M |
+| Profit | 130.24M |
+| Total Orders | 12K |
+| Profit Margin | 37.61% |
+| Average Order Value | 28.43K |
+| Total Quantity | 152K |
 
-(Add your dashboard screenshot here)
+---
 
-## Files Included
+## 🖼 Dashboard Preview
 
-- dashboard.pbix
+<img src="dashboard_screenshot.png" width="100%">
+
+---
+
+## 📂 Project Files
+
+- Assignment 2- Ashish.pbix
 - dashboard_screenshot.png
+- README.md
 
-## Author
+---
 
-Ashish Kumar
+## 🚀 Author
+
+**Ashish Kumar**
+
+Data Analyst | Power BI | SQL | Python | Excel
