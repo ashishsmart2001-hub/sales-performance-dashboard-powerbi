@@ -61,7 +61,7 @@ The objective of this dashboard is to help business stakeholders monitor sales p
 
 ## 📂 Project Files
 
-- Assignment 2- Ashish.pbix
+- Power BI Porject.pbix
 - dashboard_screenshot.png
 - README.md
 
